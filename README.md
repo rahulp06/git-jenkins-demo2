@@ -1,6 +1,1 @@
-<html>
-
-<title>Welcome</title>
-
-</html>
 
